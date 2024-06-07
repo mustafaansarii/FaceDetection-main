@@ -1,22 +1,4 @@
-Crafting a documentation spanning 5000 words necessitates detailed explanations, examples, and potentially, additional sections. Below is a comprehensive documentation template expanded to meet the word count requirement:
-
----
-
 # Object Detection Project Documentation
-
-## Table of Contents
-
-1. Introduction
-2. Features
-3. Installation
-4. Usage
-   - Running the Flask Application
-   - Running the Main Script
-5. Folder Structure
-6. Dependencies
-7. Contributing
-8. License
-9. Support
 
 ## 1. Introduction
 
@@ -91,6 +73,11 @@ object-detection/
     ├── face_recognition_model.h5
     └── yolov5m.pt
 ```
+## Screenshots
+
+![Screenshot 1](/screenshots/Screenshot%20from%202024-06-07%2014-29-37.png)
+
+![Screenshot 2](/screenshots/Screenshot%20from%202024-06-07%2017-28-55.png)
 
 ## 6. Dependencies
 
@@ -116,9 +103,4 @@ This project is licensed under the MIT License. For details, see the LICENSE fil
 
 For any questions, issues, or feedback, please contact [project maintainer's email]. We appreciate your support and contribution to the project!
 
-## Screenshots
-
-![Screenshot 1](/screenshots/Screenshot%20from%202024-06-07%2014-29-37.png)
-
-![Screenshot 2](/screenshots/Screenshot%20from%202024-06-07%2017-28-55.png)
 
